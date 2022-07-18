@@ -12,7 +12,7 @@
 
 卒業年度
 
-- 院進予定のため、25卒
+- 院進予定のため、2025年3月卒業
 
 ## 開発経験
 
@@ -21,17 +21,23 @@
 | 2020/6 ~ 2021/7 | ベースメントアップス株式会社（長期インターン）　<br> https://basementapps.tokyo/ | Unityを用いたモバイル向けゲームアプリの開発 |
 | 2021/8 ~ 2022/6 | LINE株式会社（アルバイト）　<br> https://linecorp.com/ja/ | LINEアプリ（iOS）の保守、開発 |
 
-### 参考
+## 自己PR
 
-個人開発
-- https://apps.apple.com/jp/developer/tatsuya-ishii/id1527374973
+#### データ構造、アルゴリズム、ヒューリスティック最適化の知識
+  - AtCoderでAlgorithm黄、Heuristic青（[ユーザーページ](https://atcoder.jp/users/tishii24)）
+#### 機械学習分野の知識
+  - 機械学習を用いたデータ分析を主とした研究室に所属
+#### 大規模なチームでの開発経験  
+  - LINE社でのアルバイトの経験（[インターンレポート](https://engineering.linecorp.com/ja/blog/internship2021-ios-browser-ui/)）
+  - GitHub Flowへの理解、コードの可読性への意識、チーム開発でのコミュニケーションの経験
+#### 経営工学への理解
+  - 学科での講義
+    - オペレーションズリサーチ、メソッドエンジニアリング、施設・ロジスティクス計画、統計解析など
+  - 学科内（約130人）で2番目の成績（GPA 3.67）
+#### 英語でのコミュニケーション
+  - TOEIC IP テストにて935点
 
-LINE社でのインターンレポート
-- https://engineering.linecorp.com/ja/blog/internship2021-ios-browser-ui/
-
-## 能力
-
-### 開発言語
+## 開発言語
 
 | 言語 | 用途 |
 | --- | ---- |
@@ -40,14 +46,9 @@ LINE社でのインターンレポート
 | Python | 機械学習アルゴリズムの実装、簡単な自動化スクリプトの作成 |
 | C# | Unityでの開発 |
 
-### データ構造、アルゴリズムに関する知識
+## 参考
 
-国内最大の競技プログラミングサイトAtCoderで上位3%にあたる黄色に所属
+個人開発
+- https://apps.apple.com/jp/developer/tatsuya-ishii/id1527374973
 
-https://atcoder.jp/users/tishii24
-
-## 言語スキル
-
-- 日本語: ネイティブレベル
-
-- 英語: 基本的なコミュニケーションが可能 (TOEIC IP 935)
+![スクリーンショット 2022-07-18 21 33 52](https://user-images.githubusercontent.com/64118114/179512136-89552532-6248-49e2-b45c-2e30113e077a.png)
