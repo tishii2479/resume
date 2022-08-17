@@ -24,7 +24,7 @@
 ## 自己PR
 
 #### データ構造、アルゴリズム、ヒューリスティック最適化の知識
-  - AtCoderでAlgorithm黄、Heuristic青（[ユーザーページ](https://atcoder.jp/users/tishii24)）
+  - AtCoderでAlgorithm黄、Heuristic黄（[ユーザーページ](https://atcoder.jp/users/tishii24)）
 #### 機械学習分野の知識
   - 機械学習を用いたデータ分析を主とした研究室に所属
 #### 大規模なチームでの開発経験  
